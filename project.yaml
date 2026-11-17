@@ -24,7 +24,7 @@ repositories:
 
 website: "https://slimtoolkit.org/"
 
-artwork: "https://landscape.cncf.io/logos/slimtoolkit.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/slimtoolkit"
 
 adopters:
   path: "https://github.com/slimtoolkit/slim/blob/master/ADOPTERS.md"
